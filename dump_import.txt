@@ -1,0 +1,1 @@
+docker exec -i 9eb5d6ffb0a9 pg_restore -U postgresu -v -d data < /home/filipa/Downloads/tweets.backup
