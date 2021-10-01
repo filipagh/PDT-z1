@@ -4,3 +4,7 @@ services:
     image: postgis/postgis
     environment:
       POSTGRES_PASSWORD: root
+    volumes:
+      - ./pgdata:/games/ssd/pgdata/
+volumes:
+  pgdata:
