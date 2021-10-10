@@ -1,7 +1,7 @@
 # Zadanie 1 – analýza tweetov
 
 autor: Filip Agh
-git: TODO
+[link na git](https://github.com/filipagh/PDT-z1)
 
 ## uloha 1
 
